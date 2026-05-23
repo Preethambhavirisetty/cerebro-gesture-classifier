@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/preethambhavirisetty/Desktop/Ostep/build/cmake_install.cmake",
+		"/Users/preethambhavirisetty/Desktop/Ostep/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

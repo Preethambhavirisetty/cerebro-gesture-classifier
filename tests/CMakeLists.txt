@@ -1,0 +1,10 @@
+function(add_cerebro_test name)
+    add_executable(${name} ${name}.cpp)
+    target_link_libraries(${name} PRIVATE cerebro)
+    add_test(NAME ${name} COMMAND ${name})
+endfunction()
+
+add_cerebro_test(test_circular_buffer)
+add_cerebro_test(test_feature_extractor)
+add_cerebro_test(test_gesture_classifier)
+add_cerebro_test(test_sensor_dropout)

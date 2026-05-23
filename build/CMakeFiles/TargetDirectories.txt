@@ -1,0 +1,11 @@
+/Users/preethambhavirisetty/Desktop/Ostep/build/CMakeFiles/cerebro.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/CMakeFiles/test.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/CMakeFiles/edit_cache.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/CMakeFiles/rebuild_cache.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/test_circular_buffer.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/test_feature_extractor.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/test_gesture_classifier.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/test_sensor_dropout.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/test.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/edit_cache.dir
+/Users/preethambhavirisetty/Desktop/Ostep/build/tests/CMakeFiles/rebuild_cache.dir

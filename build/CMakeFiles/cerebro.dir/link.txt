@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcerebro.a CMakeFiles/cerebro.dir/src/feature_extractor.cpp.o CMakeFiles/cerebro.dir/src/inference_engine.cpp.o CMakeFiles/cerebro.dir/src/gesture_classifier.cpp.o
+/usr/bin/ranlib libcerebro.a
